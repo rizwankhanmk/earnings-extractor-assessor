@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-26T07:11:47+08:00",
+  "fetched_at": "2026-10-26T07:31:36+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,55 +16,55 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-25",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 91 ms"
+      "detail": "HTTP 200, 1 KB in 70 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 81 ms"
+      "detail": "HTTP 200, 148 KB in 29 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 15 ms"
+      "detail": "HTTP 200, 156 KB in 18 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 19 ms"
+      "detail": "HTTP 200, 154 KB in 16 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 48 ms"
+      "detail": "HTTP 200, 3,090 KB in 41 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 36 ms"
+      "detail": "HTTP 200, 4,373 KB in 26 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,735 KB in 21 ms"
+      "detail": "HTTP 200, 2,735 KB in 26 ms"
     },
     {
       "name": "WD 40 CO company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000105132.json",
       "ok": true,
-      "detail": "HTTP 200, 2,712 KB in 72 ms"
+      "detail": "HTTP 200, 2,712 KB in 32 ms"
     },
     {
       "name": "First Bancorp, Inc /ME/ company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000765207.json",
       "ok": true,
-      "detail": "HTTP 200, 5,466 KB in 1004 ms"
+      "detail": "HTTP 200, 5,466 KB in 328 ms"
     }
   ],
   "files": [
