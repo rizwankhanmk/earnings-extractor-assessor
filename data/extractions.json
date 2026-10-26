@@ -305,5 +305,89 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/765207/000076520726000112/a26q3earningsex991.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/765207/000076520726000112/0000765207-26-000112-index.htm",
     "saved_at": "2026-10-25T22:37:43+08:00"
+  },
+  {
+    "cik": "1506251",
+    "company": "Citius Pharmaceuticals, Inc.",
+    "accession": "0001213900-26-112478",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Unit sales to wholesalers more than doubled as the commercial team reached nationwide coverage.",
+        "quote": "Unit sales to wholesalers more than doubled as our expanded commercial team reached nationwide coverage in August"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "Management expects the fourth-quarter momentum to carry into fiscal 2027.",
+        "quote": "we expect the momentum we built in the fourth quarter to carry forward"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of continued demand, doubled unit sales and momentum carrying forward."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1506251-0001213900-26-112478.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1506251/000121390026112478/ea030934501ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1506251/000121390026112478/0001213900-26-112478-index.htm",
+    "saved_at": "2026-10-27T06:10:14+08:00"
+  },
+  {
+    "cik": "1605301",
+    "company": "CB Financial Services, Inc.",
+    "accession": "0001605301-26-000042",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 5.327,
+        "unit": "USD millions",
+        "quote": "Net Income (Loss) (GAAP) | $ | 5,327"
+      },
+      "diluted_eps": {
+        "value": 0.99,
+        "unit": "USD per share",
+        "quote": "Earnings (Loss) Per Common Share - Diluted | 0.99"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "margins",
+        "claim": "Net interest margin improved to 3.75% from 3.68% in the previous quarter.",
+        "quote": "net interest margin (NIM) improved to 3.75% for the three months ended September 30, 2026 compared to 3.68% for the three months ended June 30, 2026"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Noninterest expenses fell slightly from the previous quarter.",
+        "quote": "Noninterest expenses decreased $126,000 to $10.3 million for the three months ended September 30, 2026 compared to $10.4 million for the three months ended June 30, 2026"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the results solid, with better margin and earnings and a strong capital position."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1605301-0001605301-26-000042.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1605301/000160530126000042/a20260930ex9913rdqtrearnin.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1605301/000160530126000042/0001605301-26-000042-index.htm",
+    "saved_at": "2026-10-27T06:10:14+08:00"
   }
 ]
