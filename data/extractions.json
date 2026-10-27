@@ -389,5 +389,121 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1605301/000160530126000042/a20260930ex9913rdqtrearnin.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1605301/000160530126000042/0001605301-26-000042-index.htm",
     "saved_at": "2026-10-27T06:10:14+08:00"
+  },
+  {
+    "cik": "1163739",
+    "company": "NABORS INDUSTRIES LTD",
+    "accession": "0001104659-26-119167",
+    "release_date": "2026-10-27",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 872.194,
+        "unit": "USD millions",
+        "quote": "Operating revenues | $ | 872,194"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": -11.165,
+        "unit": "USD millions",
+        "quote": "Net income (loss) attributable to Nabors | $ | (11,165 | )"
+      },
+      "diluted_eps": {
+        "value": -1.24,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | (1.24 | )"
+      }
+    },
+    "guidance": {
+      "text": "For the fourth quarter Nabors expects a Lower 48 average rig count of 75 rigs, among other segment metrics.",
+      "quote": "Lower 48 average rig count of 75 rigs"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Operating revenues rose 7% from the second quarter.",
+        "quote": "today reported third quarter 2026 operating revenues of $872 million, up 7% sequentially."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CEO says International Drilling reached a record daily adjusted gross margin.",
+        "quote": "International Drilling achieved a record daily adjusted gross margin."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CFO expects full-year 2026 adjusted EBITDA of about $930 million.",
+        "quote": "We anticipate delivering full-year 2026 adjusted EBITDA of approximately $930 million, reaching the upper end of our prior guidance."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO and CFO cite record margin, free cash flow above expectations and a raised full-year outlook."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1163739-0001104659-26-119167.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1163739/000110465926119167/tm2628332d1_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1163739/000110465926119167/0001104659-26-119167-index.htm",
+    "saved_at": "2026-10-28T06:08:27+08:00"
+  },
+  {
+    "cik": "1500217",
+    "company": "American Assets Trust, Inc.",
+    "accession": "0001500217-26-000049",
+    "release_date": "2026-10-27",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 114.284,
+        "unit": "USD millions",
+        "quote": "Total revenue | 114,284 | 109,578"
+      },
+      "operating_income": {
+        "value": 29.446,
+        "unit": "USD millions",
+        "quote": "Operating income | 29,446 | 24,767"
+      },
+      "net_income": {
+        "value": 7.726,
+        "unit": "USD millions",
+        "quote": "Net income attributable to American Assets Trust, Inc. stockholders | $ | 7,726"
+      },
+      "diluted_eps": {
+        "value": 0.13,
+        "unit": "USD per share",
+        "quote": "Diluted income attributable to common stockholders per share | $ | 0.13"
+      }
+    },
+    "guidance": {
+      "text": "The company raised its 2026 FFO per diluted share guidance to $2.04 to $2.10.",
+      "quote": "The company increased its 2026 FFO per diluted share guidance to a range of $2.04 to $2.10 per share"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Same-store cash NOI rose 8.3% in the quarter.",
+        "quote": "Same-store cash Net Operating Income (“NOI”) increased 8.3% and 2.3% for the three and nine months ended September 30, 2026"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The company raised its 2026 FFO guidance.",
+        "quote": "Increased 2026 FFO per diluted share guidance to a range of $2.04 to $2.10 with a midpoint of $2.07, a $0.04 increase over prior guidance."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The highlights stress rising same-store income, record rental rates and a raised outlook."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1500217-0001500217-26-000049.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1500217/000150021726000049/a3q26earningsrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1500217/000150021726000049/0001500217-26-000049-index.htm",
+    "saved_at": "2026-10-28T06:08:27+08:00"
   }
 ]
