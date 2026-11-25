@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25T12:07:33+08:00",
+  "fetched_at": "2026-11-25T12:33:51+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,151 +16,151 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 103 ms"
+      "detail": "HTTP 200, 60 KB in 479 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 110 ms"
+      "detail": "HTTP 200, 60 KB in 819 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 82 ms"
+      "detail": "HTTP 200, 60 KB in 78 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=300",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 121 ms"
+      "detail": "HTTP 200, 60 KB in 1871 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=400",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 96 ms"
+      "detail": "HTTP 200, 59 KB in 485 ms"
     },
     {
       "name": "Earnings radar, page 6",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=500",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 376 ms"
+      "detail": "HTTP 200, 60 KB in 358 ms"
     },
     {
       "name": "Earnings radar, page 7",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=600",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 137 ms"
+      "detail": "HTTP 200, 60 KB in 269 ms"
     },
     {
       "name": "Earnings radar, page 8",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=700",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 84 ms"
+      "detail": "HTTP 200, 60 KB in 466 ms"
     },
     {
       "name": "Earnings radar, page 9",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=800",
       "ok": true,
-      "detail": "HTTP 200, 45 KB in 122 ms"
+      "detail": "HTTP 200, 45 KB in 357 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 72 ms"
+      "detail": "HTTP 200, 149 KB in 50 ms"
     },
     {
       "name": "Alphabet filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 186 ms"
+      "detail": "HTTP 200, 1 KB in 53 ms"
     },
     {
       "name": "Alphabet press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 361 KB in 37 ms"
+      "detail": "HTTP 200, 361 KB in 66 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 158 KB in 119 ms"
+      "detail": "HTTP 200, 158 KB in 42 ms"
     },
     {
       "name": "Amazon filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 28 ms"
+      "detail": "HTTP 200, 1 KB in 80 ms"
     },
     {
       "name": "Amazon press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 657 KB in 239 ms"
+      "detail": "HTTP 200, 657 KB in 64 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 45 ms"
+      "detail": "HTTP 200, 154 KB in 36 ms"
     },
     {
       "name": "Solana Co filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1610853/000161085326000016/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 154 ms"
+      "detail": "HTTP 200, 1 KB in 100 ms"
     },
     {
       "name": "Solana Co press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1610853/000161085326000016/q32026pressreleaseex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 121 KB in 83 ms"
+      "detail": "HTTP 200, 121 KB in 104 ms"
     },
     {
       "name": "Grace Therapeutics, Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1444192/000114036126043308/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 179 ms"
+      "detail": "HTTP 200, 1 KB in 70 ms"
     },
     {
       "name": "Grace Therapeutics, Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1444192/000114036126043308/ef20085030_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 159 KB in 67 ms"
+      "detail": "HTTP 200, 159 KB in 124 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 78 ms"
+      "detail": "HTTP 200, 3,175 KB in 65 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 134 ms"
+      "detail": "HTTP 200, 4,447 KB in 66 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 114 ms"
+      "detail": "HTTP 200, 2,745 KB in 233 ms"
     },
     {
       "name": "Solana Co company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001610853.json",
       "ok": true,
-      "detail": "HTTP 200, 1,660 KB in 545 ms"
+      "detail": "HTTP 200, 1,660 KB in 86 ms"
     },
     {
       "name": "Grace Therapeutics, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001444192.json",
       "ok": true,
-      "detail": "HTTP 200, 934 KB in 267 ms"
+      "detail": "HTTP 200, 934 KB in 80 ms"
     }
   ],
   "files": [
