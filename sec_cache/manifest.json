@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27T11:36:37+08:00",
+  "fetched_at": "2026-11-27T11:46:09+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -9,74 +9,74 @@
     "note": "The last radar run was more than 14 days ago, so the radar looked back 14 days only."
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 25,
-  "answered": 25,
+  "requests": 24,
+  "answered": 24,
   "sources": [
     {
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 72 ms"
+      "detail": "HTTP 200, 60 KB in 90 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 37 ms"
+      "detail": "HTTP 200, 60 KB in 313 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 39 ms"
+      "detail": "HTTP 200, 60 KB in 94 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=300",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 49 ms"
+      "detail": "HTTP 200, 59 KB in 84 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=400",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 32 ms"
+      "detail": "HTTP 200, 60 KB in 385 ms"
     },
     {
       "name": "Earnings radar, page 6",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=500",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 33 ms"
+      "detail": "HTTP 200, 60 KB in 80 ms"
     },
     {
       "name": "Earnings radar, page 7",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=600",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 117 ms"
+      "detail": "HTTP 200, 61 KB in 80 ms"
     },
     {
       "name": "Earnings radar, page 8",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=700",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 33 ms"
+      "detail": "HTTP 200, 10 KB in 83 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 162 ms"
+      "detail": "HTTP 200, 148 KB in 48 ms"
     },
     {
       "name": "Alphabet filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 510 ms"
+      "detail": "HTTP 200, 1 KB in 55 ms"
     },
     {
       "name": "Alphabet press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 361 KB in 683 ms"
+      "detail": "HTTP 200, 361 KB in 58 ms"
     },
     {
       "name": "Amazon filings list",
@@ -88,87 +88,81 @@
       "name": "Amazon filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 388 ms"
+      "detail": "HTTP 200, 1 KB in 58 ms"
     },
     {
       "name": "Amazon press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 657 KB in 534 ms"
+      "detail": "HTTP 200, 657 KB in 78 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 46 ms"
+      "detail": "HTTP 200, 154 KB in 38 ms"
     },
     {
-      "name": "XTI Aerospace, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1529113/000121390026119203/index.json",
+      "name": "DataMeds AI, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/2030763/000149315226051734/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 551 ms"
+      "detail": "HTTP 200, 1 KB in 196 ms"
     },
     {
-      "name": "XTI Aerospace, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1529113/000121390026119203/ea031213301ex99-1.htm",
+      "name": "DataMeds AI, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/2030763/000149315226051734/ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 410 KB in 445 ms"
+      "detail": "HTTP 200, 79 KB in 24 ms"
     },
     {
-      "name": "Red Cat Holdings, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/748268/000162828026074169/index.json",
+      "name": "SUBURBAN PROPANE PARTNERS LP filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1005210/000119312526477186/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 324 ms"
+      "detail": "HTTP 200, 1 KB in 21 ms"
     },
     {
-      "name": "Red Cat Holdings, Inc. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/748268/000162828026074169/0001628280-26-074169-index.htm",
+      "name": "SUBURBAN PROPANE PARTNERS LP press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1005210/000119312526477186/sph-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 378 ms"
-    },
-    {
-      "name": "Red Cat Holdings, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/748268/000162828026074169/rcat-20261116xexx991a.htm",
-      "ok": true,
-      "detail": "HTTP 200, 215 KB in 757 ms"
+      "detail": "HTTP 200, 440 KB in 56 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 61 ms"
+      "detail": "HTTP 200, 3,175 KB in 125 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 63 ms"
+      "detail": "HTTP 200, 4,447 KB in 71 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 52 ms"
+      "detail": "HTTP 200, 2,745 KB in 179 ms"
     },
     {
-      "name": "XTI Aerospace, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001529113.json",
+      "name": "DataMeds AI, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002030763.json",
       "ok": true,
-      "detail": "HTTP 200, 2,600 KB in 344 ms"
+      "detail": "HTTP 200, 372 KB in 244 ms"
     },
     {
-      "name": "Red Cat Holdings, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000748268.json",
+      "name": "SUBURBAN PROPANE PARTNERS LP company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001005210.json",
       "ok": true,
-      "detail": "HTTP 200, 1,853 KB in 540 ms"
+      "detail": "HTTP 200, 2,852 KB in 94 ms"
     }
   ],
   "files": [
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000748268.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001005210.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001529113.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0002030763.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -180,14 +174,13 @@
     "efts.sec.gov_search-index_from500.json",
     "efts.sec.gov_search-index_from600.json",
     "efts.sec.gov_search-index_from700.json",
+    "www.sec.gov_Archives_edgar_data_1005210_000119312526477186_index.json",
+    "www.sec.gov_Archives_edgar_data_1005210_000119312526477186_sph-ex99_1.htm",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_amzn-20260930xex991.htm",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_index.json",
-    "www.sec.gov_Archives_edgar_data_1529113_000121390026119203_ea031213301ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1529113_000121390026119203_index.json",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_googexhibit991q32026.htm",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json",
-    "www.sec.gov_Archives_edgar_data_748268_000162828026074169_0001628280-26-074169-index.htm",
-    "www.sec.gov_Archives_edgar_data_748268_000162828026074169_index.json",
-    "www.sec.gov_Archives_edgar_data_748268_000162828026074169_rcat-20261116xexx991a.htm"
+    "www.sec.gov_Archives_edgar_data_2030763_000149315226051734_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_2030763_000149315226051734_index.json"
   ]
 }
